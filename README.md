@@ -4,5 +4,10 @@
 Agar penjelasan seputar Python dapat dengan mudah dipelajari, maka catatan ini berbasis Jupiter.
 
 ## Konten dari catatan ini kurang lebih:
-1. Pendahuluan
-1.1 Mengenal Penulisan Dasar Pada Python 2.7
+
+1. Mengenal Penulisan Dasar Pada Python 2.7
+2. Menyusul... :D
+
+
+
+
